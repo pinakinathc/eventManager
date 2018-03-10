@@ -17,3 +17,17 @@ Hope you never miss any event from now on with your own personal `event_Manage`
 
 for additional queries, please create an issue and comment with as much details as you can.
 Feel free to add more features by creating a seperate branch. I would be more than happy to help :)
+
+Well, enough of reading...let's go to the most interesting part. How cool does it look??!!
+
+It is all a single page application....
+Starting Page:
+![first_image](https://github.com/pinakinathc/eventManager/blob/master/sample_screenshots/initial_page.png)
+
+This is Where you add new Events:
+![add events](https://github.com/pinakinathc/eventManager/blob/master/sample_screenshots/add_Event.png)
+
+This is where you see all your Events:
+![view all events](https://github.com/pinakinathc/eventManager/blob/master/sample_screenshots/show_Event.png)
+
+That's it folks!!
