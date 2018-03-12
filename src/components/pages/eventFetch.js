@@ -34,10 +34,11 @@ class EventFetch extends React.Component{
                     date = {eventArr.date}
                     time = {eventArr.time}
                     description = {eventArr.description}
-                    speaker_name = {eventArr.speaker_name}
-                    speaker_role = {eventArr.speaker_role}
-                    speaker_company = {eventArr.speaker_company}
-                    speaker_history = {eventArr.speaker_history}
+                    speaker = {eventArr.speaker}
+                    // speaker_name = {eventArr.speaker_name}
+                    // speaker_role = {eventArr.speaker_role}
+                    // speaker_company = {eventArr.speaker_company}
+                    // speaker_history = {eventArr.speaker_history}
                     no_of_people = {eventArr.no_of_people}
                 />
                 </Col>

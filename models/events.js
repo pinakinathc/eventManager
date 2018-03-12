@@ -6,10 +6,12 @@ var eventsSchema = mongoose.Schema({
  date: String,
  time: String,
  description: String,
- speaker_name: String,
- speaker_role: String,
- speaker_company: String,
- speaker_history: String,
+ speaker: [{
+    speaker_name: String,
+    speaker_role: String,
+    speaker_company: String,
+    speaker_history: String,
+ }],
  no_of_people: String,
 })
 
